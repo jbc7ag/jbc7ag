@@ -1,8 +1,13 @@
 ### Hola 👋
 
-I'm a mobile developer, currenty working with React & Android  
-  <br><br>
+I'm a mobile developer, currenty working with Android & React, activity learnin more about Kotlin.
+<br><br>
 
+Love planet Earth, Mars, and Racoons 🌎
+
+![Alt Text](https://forgifs.com/gallery/d/214180-2/Raccoon-eating-grapes.gif)
+
+🌟 Fun fact: Last year I discovered that narwhals exist. I always thought they belong to the fantastic animals: Unicorns, mermaid, and Santa Claus
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
