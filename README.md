@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola 👋
+
+I'm a mobile developer, currenty working with React & Android  
+  <br><br>
+
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
