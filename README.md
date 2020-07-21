@@ -3,7 +3,7 @@
 I'm a mobile developer, currenty working with Android & React, activity learnin more about Kotlin. Reach me out on [Twitter](http://twitter.com/jbc7agg) or through my [Blog Profile](http://dev.to/jbc7ag) 
 
 
-### 🔖 Blog posts
+### 🔖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Null Safety in Kotlin](https://dev.to/jbc7ag/understanding-null-safety-in-kotlin-10e2)
 - [How to use data classes in Kotlin](https://dev.to/jbc7ag/how-to-use-data-classes-in-kotlin-39gl)
