@@ -5,6 +5,11 @@ I'm a mobile developer, currenty working with Android & React, activity learnin 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Null Safety in Kotlin](https://dev.to/jbc7ag/understanding-null-safety-in-kotlin-10e2)
+- [How to use data classes in Kotlin](https://dev.to/jbc7ag/how-to-use-data-classes-in-kotlin-39gl)
+- [(Spanish) Obtener un String separado de una lista en Kotlin:  joinToString()
+](https://dev.to/jbc7ag/spanish-obtener-un-string-separado-de-una-lista-en-kotlin-jointostring-1gi3)
+- [Easy way to get a separated string from a list in Kotlin: joinToString()](https://dev.to/jbc7ag/easy-way-to-get-a-separated-string-from-a-list-in-kotlin-jointostring-3oe0)
 <!-- BLOG-POST-LIST:END -->
 
 🌟 Fun fact: Last year I discovered that narwhals exist. I always thought they belong to the fantastic animals: Unicorns, mermaid, and Santa Claus
