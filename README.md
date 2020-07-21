@@ -1,11 +1,7 @@
 ## Hola 🌎
 
-I'm a mobile developer, currenty working with Android & React, activity learnin more about Kotlin.
-<br><br>
-<p align="center">
-Reach me out on [Twitter](http://twitter.com/jbc7agg) or through my [Blog Profile](http://dev.to/jbc7ag) 
-</p>
-<br/>
+I'm a mobile developer, currenty working with Android & React, activity learnin more about Kotlin. Reach me out on [Twitter](http://twitter.com/jbc7agg) or through my [Blog Profile](http://dev.to/jbc7ag) 
+
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
