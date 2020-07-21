@@ -7,11 +7,6 @@ I'm a mobile developer, currenty working with Android & React, activity learnin 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-    <img src="https://img.icons8.com/emoji/48/000000/raccoon.png"/>
-</p>
-<br/>
-
 🌟 Fun fact: Last year I discovered that narwhals exist. I always thought they belong to the fantastic animals: Unicorns, mermaid, and Santa Claus
 
 <p align="center">
