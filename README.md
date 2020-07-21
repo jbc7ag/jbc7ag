@@ -19,5 +19,5 @@ Reach me out on [Twitter](http://twitter.com/jbc7agg) or through my [Blog Profil
 🌟 Fun fact: Last year I discovered that narwhals exist. I always thought they belong to the fantastic animals: Unicorns, mermaid, and Santa Claus
 
 <p align="center">
-    <img height="20" width="20" src="https://images.vexels.com/media/users/3/162345/isolated/preview/950ef5d8ba4d6a1c3052141f90c5d2f2-narval-colmillo-aleta-cola-plana-by-vexels.png"/>
+    <img height="100" width="100" src="https://images.vexels.com/media/users/3/162345/isolated/preview/950ef5d8ba4d6a1c3052141f90c5d2f2-narval-colmillo-aleta-cola-plana-by-vexels.png"/>
 </p>
