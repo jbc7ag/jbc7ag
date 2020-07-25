@@ -5,6 +5,7 @@ I'm a mobile developer, currenty working with Kotlin (Android) & React, actively
 
 ### 🔖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- ["Hello world" in Esoteric Programming Languages? (Esolangs)](https://dev.to/jbc7ag/hello-world-in-esoteric-programming-languages-esolangs-5122)
 - [Understanding Null Safety in Kotlin](https://dev.to/jbc7ag/understanding-null-safety-in-kotlin-10e2)
 - [How to use data classes in Kotlin](https://dev.to/jbc7ag/how-to-use-data-classes-in-kotlin-39gl)
 - [(Spanish) Obtener un String separado de una lista en Kotlin:  joinToString()
