@@ -3,7 +3,7 @@
 I'm a mobile developer, currenty working with Kotlin (Android) & React, actively learning more about Kotlin. Reach me out on [Twitter](http://twitter.com/jbc7agg) or through my [Blog Profile](http://dev.to/jbc7ag) 
 
 
-### 🔖 Latest Blog Posts
+### 🔖 My latest 5 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [RecyclerView or Listview: Pros, cons, and examples with Kotlin](https://dev.to/jbc7ag/recyclerview-or-listview-pros-cons-and-examples-with-kotlin-2nb2)
 - [Using Retrofit + Coroutines in Kotlin](https://dev.to/jbc7ag/using-retrofit-coroutines-in-kotlin-15bc)
