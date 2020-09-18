@@ -5,7 +5,7 @@ I'm a mobile developer, currenty working with Kotlin (Android) & React, actively
 
 ### 🔖 My latest 5 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [RecyclerView or ListView: Pros, cons, and examples with Kotlin](https://dev.to/jbc7ag/recyclerview-or-listview-pros-cons-and-examples-with-kotlin-2nb2)
+- [RecyclerView or ListView? : Pros, cons, and examples with Kotlin](https://dev.to/jbc7ag/recyclerview-or-listview-pros-cons-and-examples-with-kotlin-2nb2)
 - [Using Retrofit + Coroutines in Kotlin](https://dev.to/jbc7ag/using-retrofit-coroutines-in-kotlin-15bc)
 - ["Hello world" in Esoteric Programming Languages? (Esolangs)](https://dev.to/jbc7ag/hello-world-in-esoteric-programming-languages-esolangs-5122)
 - [Understanding Null Safety in Kotlin](https://dev.to/jbc7ag/understanding-null-safety-in-kotlin-10e2)
