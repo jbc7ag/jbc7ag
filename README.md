@@ -3,7 +3,7 @@
 I'm a mobile developer, currenty working with Kotlin (Android) & React, actively learning more about Kotlin. Reach me out on [Twitter](http://twitter.com/jbc7agg) or through my [Blog Profile](http://dev.to/jbc7ag) 
 
 
-### 🔖 My latest 5 Blog Posts
+### 🔖 My latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Coroutines, key Concepts](https://dev.to/jbc7ag/coroutines-key-concepts-4pil)
 - [Analyzing my Android Apps with  SonarQube + Docker](https://dev.to/jbc7ag/analyzing-my-android-apps-with-sonarqube-docker-4i5l)
