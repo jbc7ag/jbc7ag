@@ -5,7 +5,7 @@ I'm a mobile developer, currenty working with Kotlin (Android) & React, actively
 
 ### 🔖 My latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Styling Our Android Notifications (Kotlin)](https://dev.to/jbc7ag/styling-our-android-notifications-kotlin-22bb)
+- [Styling Our Android Notifications &lpar;Kotlin&rpar;](https://dev.to/jbc7ag/styling-our-android-notifications-kotlin-22bb)
 - [Coroutines, key Concepts](https://dev.to/jbc7ag/coroutines-key-concepts-4pil)
 - [Analyzing my Android Apps with  SonarQube + Docker](https://dev.to/jbc7ag/analyzing-my-android-apps-with-sonarqube-docker-4i5l)
 - [RecyclerView or ListView? : Pros, cons, and examples with Kotlin](https://dev.to/jbc7ag/recyclerview-or-listview-pros-cons-and-examples-with-kotlin-2nb2)
